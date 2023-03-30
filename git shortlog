@@ -1,0 +1,29 @@
+[33mcommit e90d3ee98b931be6c5ce0e6ebd3543a361dc81cc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: SerechIII <briandenett@gmail.com>
+Date:   Thu Mar 30 07:40:06 2023 -0300
+
+    Improve empty, add images and complete first recipe
+
+[33mcommit 340ffbdbac66a59a398b94f78c640d1fcd63cc66[m
+Author: SerechIII <briandenett@gmail.com>
+Date:   Thu Mar 30 06:58:26 2023 -0300
+
+    Improve recipe_empty and started first recipe
+
+[33mcommit 50ee641c3a08e671dd56a104ff6f4bbe4c505eaa[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: SerechIII <briandenett@gmail.com>
+Date:   Thu Mar 30 06:48:18 2023 -0300
+
+    Create a blank recipe.html
+
+[33mcommit b1080276c97e27cdf2ae4ae6324258d16819ee63[m
+Author: SerechIII <briandenett@gmail.com>
+Date:   Thu Mar 30 06:34:12 2023 -0300
+
+    Add Main Page and recipe main frame
+
+[33mcommit f3ea8db8c73f4f869609a10358a78a9b9ddfe8bb[m
+Author: SerechIII <briandenett@gmail.com>
+Date:   Thu Mar 30 06:24:51 2023 -0300
+
+    Start project
