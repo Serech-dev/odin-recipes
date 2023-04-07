@@ -1,0 +1,28 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: rgb(10, 5, 0);
+    background-color: aliceblue;
+}
+body {
+    background-color: rgb(195, 231, 231);
+}
+.recipesbg,li {
+    background-color: aliceblue;
+}
+#messi {
+    background-color: aliceblue;
+    font-weight: 900;
+}
+.buttonmp {
+    background-color: aliceblue;
+    text-align: center;
+    font-size: larger;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+h3 {
+    text-align: center;
+}
